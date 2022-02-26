@@ -21,6 +21,12 @@
 - JavaScript;
 - jQuery;
 
+## 💻 Latest project:
+- [GAME_"✊, ✋, ✌️"](https://github.com/hugompt/PROJECT_ROCK_PAPER_SCISSORS)
+
+https://user-images.githubusercontent.com/99179407/155855902-34776580-10dc-426c-b083-2d45684bcbed.mp4
+
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hugompt&theme=dark&background=000000)](https://git.io/streak-stats)
 
