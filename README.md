@@ -21,9 +21,13 @@
 - JavaScript;
 - jQuery;
 
-## 💻 Latest project:
+## 💻 Latest projects:
 - [📝 Etch-a-Sketch](https://github.com/hugompt/PROJECT-ETCH-A-SKETCH)
-  - Video coming soon!
+
+https://user-images.githubusercontent.com/99179407/155901713-ef3e5206-e81c-418a-8a8d-c61fa937c7cf.mov
+
+
+
   
 - ["✊, ✋, ✌️" - GAME](https://github.com/hugompt/PROJECT_ROCK_PAPER_SCISSORS)
 
