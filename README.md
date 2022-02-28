@@ -6,7 +6,8 @@ let whoAmI = {
   lastName: "Marinho",
   birthYear: 1993,
   bornIn: "Portugal",
-  livingIn: "Switzerland"
+  livingIn: "Switzerland",
+  workingSince: 2012
 }
 ```
 --------
