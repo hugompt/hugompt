@@ -30,11 +30,11 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 <img src=https://user-images.githubusercontent.com/99179407/157129633-4bcea386-aec9-496c-83a1-68b363c7b4d2.png width=50px height=50px>  <img src=https://user-images.githubusercontent.com/99179407/157255856-ed20b6f9-0098-44a4-921c-8b7b17a49a8b.png width=55px height=45px>  <img src=https://user-images.githubusercontent.com/99179407/157256891-002f0d84-4287-4759-908b-a42282544d46.svg width=50px height=50px>
 
 
-
 --------
 ## 💻 Latest projects: 
+- [:memo: - Sign-up form](https://github.com/hugompt/PROJECT-SIGN-UP-FORM)
 - [🖩 - Calculator](https://github.com/hugompt/PROJECT-CALCULATOR)
-- [📝 - Etch-a-Sketch](https://github.com/hugompt/PROJECT-ETCH-A-SKETCH)
+- [🖌️ - Etch-a-Sketch](https://github.com/hugompt/PROJECT-ETCH-A-SKETCH)
 - ["✊, ✋, ✌️" - GAME](https://github.com/hugompt/PROJECT_ROCK_PAPER_SCISSORS)
 
 
