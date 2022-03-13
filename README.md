@@ -32,10 +32,11 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 --------
 ## 💻 Latest projects: 
-- [:memo: - Sign-up form](https://github.com/hugompt/PROJECT-SIGN-UP-FORM)
-- [🖩 - Calculator](https://github.com/hugompt/PROJECT-CALCULATOR)
-- [🖌️ - Etch-a-Sketch](https://github.com/hugompt/PROJECT-ETCH-A-SKETCH)
-- ["✊, ✋, ✌️" - GAME](https://github.com/hugompt/PROJECT_ROCK_PAPER_SCISSORS)
+[:memo: - Sign-up form](https://github.com/hugompt/PROJECT-SIGN-UP-FORM) </br>
+[🖩 - Calculator](https://github.com/hugompt/PROJECT-CALCULATOR) </br>
+[🖌️ - Etch-a-Sketch](https://github.com/hugompt/PROJECT-ETCH-A-SKETCH) </br>
+[🎮 - Rock, Paper, Scissors game](https://github.com/hugompt/PROJECT_ROCK_PAPER_SCISSORS) </br>
+[🎥 - HMT | 4K Timelapses](https://github.com/hugompt/HMT_4K_TIMELAPSES) </br>
 
 
 ### :fire: My Stats :
