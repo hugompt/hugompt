@@ -32,6 +32,7 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 --------
 ## 💻 Latest projects: 
+[📚 - Book Library](https://github.com/hugompt/PROJECT-LIBRARY)
 [💼 - Admin Dashboard](https://github.com/hugompt/PROJECT-ADMIN-DASHBOARD) </br>
 [:memo: - Sign-up Form](https://github.com/hugompt/PROJECT-SIGN-UP-FORM) </br>
 [🧮 - Calculator](https://github.com/hugompt/PROJECT-CALCULATOR) </br>
