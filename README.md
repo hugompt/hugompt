@@ -19,12 +19,6 @@ let whoAmI = {
 If you have any question/feedback, please do not hesitate to reach out to me!
  
 --------
-## 🔭 I'm currently working on:
-- Becoming a Full-Stack Web Developer;
-- Creating small projects to build my portfolio;
-- Finding a "beach" in Switzerland 😂
-
---------
 ## 📚 I'm currently learning:
 <img src=https://user-images.githubusercontent.com/99179407/157128711-3efa327d-8763-4d3f-9611-a3e09cff7e4f.svg width=50px height=50px><img src=https://user-images.githubusercontent.com/99179407/157128980-ee396824-a059-4ad7-bffb-ac0998cdeede.svg width=50px height=50px> <img src="https://user-images.githubusercontent.com/99179407/157128063-c509ecc8-9c39-40f8-8400-afd9259198c6.png" width=40px height=40px> 
 <img src=https://user-images.githubusercontent.com/99179407/157129633-4bcea386-aec9-496c-83a1-68b363c7b4d2.png width=50px height=50px>
